@@ -42,7 +42,7 @@
 | Component | Technology |
 |-----------|-----------|
 | Language | Python 3.10+ |
-| Interface | CLI (Command Line Interface) |
+| Interface | GUI |
 | Storage | JSON file (`reminders.json`) |
 | Background pings | `threading` module (built-in) |
 | Desktop notifications | `plyer` (third-party, `pip install plyer`) |
